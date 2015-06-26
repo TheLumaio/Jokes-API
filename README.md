@@ -1,6 +1,12 @@
 # Jokes-API
 Small API for jokes, originally designed for Winterbunny's MarI/O stream ( http://www.twitch.tv/winterbunny )
 
+#Special Thanks
+Special thanks go to the following people for providing jokes:
+ * SquattingPoodel
+ * Vitalior
+ * The Internet
+
 # License
 Licensed under the MIT License (http://opensource.org/licenses/MIT)
 This permits you with:
