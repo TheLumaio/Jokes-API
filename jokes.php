@@ -13,7 +13,15 @@ $jokes = Array(
     "What's black and white and makes a lot of noise? A zebra with a drumkit.",
     "What's white, black, and red all over? A penguin in a liquidiser",
     "A grasshopper walks into a bar, the bartender says, \"Hey, we have a drink named after you.\" The grasshopper says, \"You have a drink named Steve?\"",
-    "What's the difference between a teacher and a train? one says spit out your gum while the other says chew chew"
+    "What's the difference between a teacher and a train? one says spit out your gum while the other says chew chew",
+    "What sound does a nut make when it sneezes? Cashew!",
+    "How many lives does a nazi cat have? Nein!",
+    "What do you call a fish with no eyes? fsh!",
+    "I think I want a job cleaning mirror's. It's something I could really see myself doing.",
+    "What did one twin say to the other? There's not enough womb in here for both of us!",
+    "What did the pirate say when you turned 80? Aye-Matey!",
+    "A mexican magician tells the audience he will disappear on the count of 3. He says, \"Uno, dos...\" and then *poof* … he disappeared without a tres!",
+    "Why did Mozart kill all his chickens? Because when he asked them who the best composer was, they'd all say \"Bach bach bach!\""
 );
 
 //Doesn't look to random - that's how random it is #deep
