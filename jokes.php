@@ -15,7 +15,6 @@ $jokes = Array(
     "A grasshopper walks into a bar, the bartender says, \"Hey, we have a drink named after you.\" The grasshopper says, \"You have a drink named Steve?\"",
     "What's the difference between a teacher and a train? one says spit out your gum while the other says chew chew",
     "What sound does a nut make when it sneezes? Cashew!",
-    "How many lives does a nazi cat have? Nein!",
     "What do you call a fish with no eyes? fsh!",
     "I think I want a job cleaning mirror's. It's something I could really see myself doing.",
     "What did one twin say to the other? There's not enough womb in here for both of us!",
